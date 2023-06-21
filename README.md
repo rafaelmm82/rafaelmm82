@@ -1,6 +1,8 @@
 ### Hi there 👋
+<!--
 
 ![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelmm82&count_private=true&show_icons=true&theme=dark)
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmm82&theme=dark&layout=compact&custom_title=Usually&nbsp;coding&nbsp;in..)](https://github.com/rafaelmm82/github-readme-stats)
 
 <!--
